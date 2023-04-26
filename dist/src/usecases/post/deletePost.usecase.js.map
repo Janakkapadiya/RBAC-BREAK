@@ -1,0 +1,1 @@
+{"version":3,"file":"deletePost.usecase.js","sourceRoot":"","sources":["../../../../src/usecases/post/deletePost.usecase.ts"],"names":[],"mappings":";;;AAGA,MAAa,iBAAiB;IAC5B,YACmB,MAAe,EACf,cAA8B;QAD9B,WAAM,GAAN,MAAM,CAAS;QACf,mBAAc,GAAd,cAAc,CAAgB;IAC9C,CAAC;IAEJ,KAAK,CAAC,OAAO,CAAC,EAAU;QACtB,OAAO,MAAM,IAAI,CAAC,cAAc,CAAC,UAAU,CAAC,EAAE,CAAC,CAAC;IAClD,CAAC;CACF;AATD,8CASC"}
